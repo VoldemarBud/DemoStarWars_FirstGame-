@@ -1,0 +1,26 @@
+body {
+  background: #1b2148; }
+
+#wrapper {
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 50px; }
+
+#staring {
+  margin-bottom: 50px;
+  font-size: 15px;
+  font-weight: 700;
+  background-color: green;
+  border-color: #005800;
+  height: 25px;
+  width: 100px; }
+
+#points{
+  font-size: 25px;
+  color: #ffffff;
+  position: absolute;
+  right: 335px;
+  top: 145px;
+}
+
+/*# sourceMappingURL=style.css.map */
